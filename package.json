@@ -1,0 +1,16 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "zennの記事管理用",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyamogera/zenn.git"
+  },
+  "author": "nyamogera",
+  "homepage": "https://github.com/nyamogera/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.95"
+  }
+}
